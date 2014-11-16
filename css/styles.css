@@ -58,10 +58,8 @@ hr {
   max-width: 450px;
   background-position: center top;
 }
-  /* 
-section {
-    color: #ffffff;
-    height: auto !important;
-    padding-top: 100px;
+
+#map-canvas {
+    height: 515px;
+    width: 100%;
 }
-*/
