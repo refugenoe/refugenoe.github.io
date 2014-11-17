@@ -48,6 +48,7 @@ hr {
 
 .ears {
   margin-top: 125px;
+  padding: 0px;
 }
 
 .logo {
@@ -60,6 +61,6 @@ hr {
 }
 
 #map-canvas {
-    height: 515px;
+    height: 300px;
     width: 100%;
 }
